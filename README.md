@@ -10,10 +10,10 @@
     To build the **data warehouse** and load analytics into the dashboard, I used the **PostgreSQL**.
     I downloaded and installed the following version:
     
-    > 'postgresql-17.5-1-windows-x64'
+   > `postgresql-17.5-1-windows-x64`
 
 ## 3. Database Table Creation
-  After installing PostgreSQL, I created two tables: a **fact table** and a **dimension table**  before inserting data from the provided dataset > '(event_stream.csv)'.
+  After installing PostgreSQL, I created two tables: a **fact table** and a **dimension table**  before inserting data from the provided dataset > `event_stream.csv`.
 
 ## 4. ETL Pipeline Development
    I developed an **ETL pipeline** using **Python** to insert data into the appropriate tables. The script was written and executed in **VSCode**.
