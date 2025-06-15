@@ -1,0 +1,6 @@
+#Download postgresql-17.5-1-windows-x64 
+#Installation Packages
+
+pip                 25.0.1
+pandas              2.0.3
+psycopg2-binary     2.9.9
