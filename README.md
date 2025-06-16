@@ -19,7 +19,7 @@
    I developed an **ETL pipeline** using **Python** to insert data into the appropriate tables. The script was written and executed in **VSCode**.
 
 ## 5. Dashboard Integration
-   I connected **PostgreSQL** to **Power BI Desktop** to create the **HeyMax Technical Assessment Dashboard**, which visualizes **growth accounting metrics** based on the required queries.
+   I connected **PostgreSQL** to **Power BI Desktop** to create the **HeyMax Technical Assessment Dashboard**, which visualizes **growth accounting metrics** based on the required queries.If you would like to review the dashboard, please download the **Power BI Desktop software** before opening the **HeyMax Technical Assessment Dashboard.pbix** file on your local computer.
 
 ## 6. Batch Processing
    This pipeline is designed to run as a **daily batch process**.
